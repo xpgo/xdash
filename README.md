@@ -23,7 +23,7 @@ This project uses:
 
 ![Homepage Desktop](example_img/xdash-desktop.jpg?raw=true)
 ![Homepage Desktop 2](example_img/xdash-desktop2.jpg?raw=true)
-![Homepage Mobile](example_img/xdash-desktop2.jpg?raw=true)
+![Homepage Mobile](example_img/xdash-mobile.jpg?raw=true)
 
 ## To Use
 
