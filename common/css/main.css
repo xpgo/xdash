@@ -97,9 +97,7 @@ a {
 ------------------------------- */
 
 .search-form {
-  margin: auto;
-  left: 0;
-  right: 0;
+  margin: 0 auto;
   width: 300px;
   height: 80px;
 }
@@ -126,7 +124,7 @@ a {
 .search-form input {
   font-family: "Inconsolata", monospace;
   margin-top: 15px;
-  margin-left: 125px;
+  margin-left: 105px;
   width: 50px;
   height: 50px;
   outline: none;
@@ -134,7 +132,7 @@ a {
   background: rgba(0, 0, 0, .4);
   color: white;
   text-shadow: 0 0 10px rgba(0, 0, 0, .4);
-  padding: 0 10px 0 20px;
+  padding: 0 20px 0 20px;
   border-radius: 25px;
   box-shadow: 0 0 25px 0 rgba(0, 0, 0, .4), 0 20px 25px 0 rgba(0, 0, 0, 0.2);
   transition: all 1s;
@@ -156,7 +154,7 @@ a {
 }
 
 .search-form input:focus ~ .search {
-  margin-left: 260px;
+  margin-left: 270px;
   color: #aaa;
   z-index: 6;
 }
