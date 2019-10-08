@@ -1,0 +1,169 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+body {
+    z-index: 1;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* ---------------------------- 
+        github corner 
+------------------------------- */
+
+.github-corner {
+    opacity: 0.4;
+}
+
+.github-corner:hover {
+    opacity: 1;
+}
+
+/* ---------------------------- 
+             item list 
+------------------------------- */
+
+#wrapper {
+    height: 100%;
+    display: grid;
+}
+
+#widgets {
+    margin: auto;
+    left: 0;
+    right: 0;
+}
+
+#itemlist {
+    display: inline-grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: auto;
+    font-size: 2.5em;
+    border-radius: 6px;
+}
+
+@media only screen and (min-width: 600px) {
+    #itemlist {
+        grid-template-columns: repeat(6, 1fr);
+        font-size: 4em;
+        background-color: rgba(0, 0, 0, .4);
+    }
+
+}
+
+@media only screen and (min-width: 800px) {
+    #itemlist {
+        grid-template-columns: repeat(10, 1fr);
+        font-size: 4em;
+        background-color: rgba(0, 0, 0, .4);
+    }
+}
+
+#itemlist>* {
+    padding: 15px;
+    margin: 0 auto;
+}
+
+
+.icon-title {
+    color: #fff;
+    font-size: 0.2em;
+    padding: 2px 0 2px 0;
+    display: block;
+    width: 100%;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* link colors */
+#itemlist a {
+    color: #fff;
+}
+
+#itemlist a:hover {
+    color: #c4c4c4;
+}
+
+
+/* ---------------------------- 
+             search 
+------------------------------- */
+
+.search-form {
+  margin: auto;
+  left: 0;
+  right: 0;
+  width: 300px;
+  height: 80px;
+}
+
+.search-form .search {
+  margin-top: -50px;
+  margin-left: 125px;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  color: #fff;
+  background: rgba(0, 0, 0, .4);
+  border-radius: 50%;
+  transition: all 1s;
+  z-index: 4;
+  box-shadow: 0 0 25px 0 rgba(0, 0, 0, 0.4);
+}
+
+.search-form .search:hover {
+  cursor: pointer;
+}
+
+.search-form input {
+  font-family: "Inconsolata", monospace;
+  margin-top: 15px;
+  margin-left: 125px;
+  width: 50px;
+  height: 50px;
+  outline: none;
+  border: none;
+  background: rgba(0, 0, 0, .4);
+  color: white;
+  text-shadow: 0 0 10px rgba(0, 0, 0, .4);
+  padding: 0 10px 0 20px;
+  border-radius: 25px;
+  box-shadow: 0 0 25px 0 rgba(0, 0, 0, .4), 0 20px 25px 0 rgba(0, 0, 0, 0.2);
+  transition: all 1s;
+  opacity: 0;
+  z-index: 5;
+  font-weight: bolder;
+  letter-spacing: 0.05em;
+}
+
+.search-form input:hover {
+  cursor: pointer;
+}
+
+.search-form input:focus {
+  margin-left: -20px;
+  width: 300px;
+  opacity: 1;
+  cursor: text;
+}
+
+.search-form input:focus ~ .search {
+  margin-left: 260px;
+  color: #aaa;
+  z-index: 6;
+}
+
+.search-form input::placeholder {
+  color: white;
+  opacity: 0.5;
+  font-weight: bolder;
+}
+
