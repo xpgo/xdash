@@ -1,0 +1,205 @@
+{
+	"title" : "My Dashboard",
+	"items" : [
+		{
+			"alt" : "Baidu",
+			"icon" : "fas fa-search",
+			"link" : "https://www.baidu.com/"
+		},
+		{
+			"alt" : "Google",
+			"icon" : "fab fa-google",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Google Alt",
+			"icon" : "fab fa-google-plus",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Bing",
+			"icon" : "fab fa-windows",
+			"link" : "https://cn.bing.com/"
+		},
+		{
+			"alt" : "Translate",
+			"icon" : "fas fa-language",
+			"link" : "https://translate.google.cn/?hl=zh-CN"
+		},
+		{
+			"alt" : "Scholar",
+			"icon" : "fas fa-graduation-cap",
+			"link" : "https://scholar.google.com.mx/"
+		},
+		{
+			"alt" : "Baidu Map",
+			"icon" : "fas fa-map-marked",
+			"link" : "https://map.baidu.com/"
+		},
+		{
+			"alt" : "Huanqiu",
+			"icon" : "fas fa-globe",
+			"link" : "http://www.huanqiu.com/"
+		},
+		{
+			"alt" : "Ifeng",
+			"icon" : "fab fa-phoenix-squadron",
+			"link" : "http://www.ifeng.com/"
+		},
+		{
+			"alt" : "Jie Mian",
+			"icon" : "far fa-window-restore",
+			"link" : "https://www.jiemian.com/"
+		},
+		{
+			"alt" : "Quora",
+			"icon" : "fab fa-quora",
+			"link" : "https://www.quora.com/"
+		},
+		{
+			"alt" : "Weibo",
+			"icon" : "fab fa-weibo",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Youtube",
+			"icon" : "fab fa-youtube",
+			"link" : "https://www.youtube.com/"
+		},
+		{
+			"alt" : "Youku",
+			"icon" : "far fa-play-circle",
+			"link" : "https://www.youku.com/"
+		},
+		{
+			"alt" : "Jing Dong",
+			"icon" : "fas fa-shopping-cart",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Tao Bao",
+			"icon" : "fas fa-store-alt",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Group",
+			"icon" : "fas fa-users",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Office",
+			"icon" : "fas fa-briefcase",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "CAS Mail",
+			"icon" : "far fa-envelope",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Web Proxy",
+			"icon" : "fas fa-user-lock",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Bookmarks",
+			"icon" : "fas fa-atlas",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "XPGO Space",
+			"icon" : "fab fa-staylinked",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "NAS xpgo",
+			"icon" : "fas fa-hdd",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "NAS vlabs",
+			"icon" : "far fa-hdd",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Leanote",
+			"icon" : "far fa-sticky-note",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "TTRSS",
+			"icon" : "fas fa-rss",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Shiori",
+			"icon" : "far fa-bookmark",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "My Chat",
+			"icon" : "far fa-comment",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "XM Blog",
+			"icon" : "far fa-heart",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "HASS",
+			"icon" : "fas fa-house-damage",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Short X",
+			"icon" : "fas fa-bezier-curve",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Xpect",
+			"icon" : "fab fa-blogger",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Lychee",
+			"icon" : "far fa-image",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Multcloud",
+			"icon" : "fas fa-cloud-download-alt",
+			"link" : "https://www.google.md/"
+		},
+		{
+			"alt" : "Github",
+			"icon" : "fab fa-github",
+			"link" : "https://github.com/xpgo/"
+		},
+		{
+			"alt" : "AS Font",
+			"icon" : "fas fa-font",
+			"link" : "https://fontawesocom/icons?from=io"
+		},
+		{
+			"alt" : "Apkpure",
+			"icon" : "fab fa-app-store",
+			"link" : "https://apkpure.com"
+		},
+		{
+			"alt" : "DL Droid",
+			"icon" : "fab fa-android",
+			"link" : "https://dlandroid.com/"
+		},
+		{
+			"alt" : "Chrome App",
+			"icon" : "fab fa-chrome",
+			"link" : "https://chrogoogle.com/webstore/category/extensions"
+		},
+		{
+			"alt" : "Dial 2",
+			"icon" : "fas fa-th",
+			"link" : "https://www.google.md/"
+		}
+	]
+}
